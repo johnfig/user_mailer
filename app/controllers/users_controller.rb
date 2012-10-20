@@ -55,7 +55,6 @@ class UsersController < ApplicationController
       end
     end
   end
-end
 
   # PUT /users/1
   # PUT /users/1.json
